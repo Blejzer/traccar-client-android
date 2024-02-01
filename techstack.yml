@@ -1,0 +1,132 @@
+repo_name: Blejzer/traccar-client-android
+report_id: 5cfe4c3ea17d576c8659d1075c1278e5
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-01T07:40:53+00:00'
+requested_by: tananaev
+provider: github
+branch: master
+detected_tools_count: 10
+tools:
+- name: Kotlin
+  description: Statically typed Programming Language targeting JVM and JavaScript
+  website_url: https://kotlinlang.org/
+  open_source: true
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android
+  detection_source: Repo Metadata
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  version: '33.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Anton Tananaev
+  last_updated_on: 2022-10-21 15:17:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android
+  detection_source: Repo Metadata
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Anton Tananaev
+  last_updated_on: 2020-01-27 06:33:40.000000000 Z
+- name: Robolectric
+  description: An open-source testing framework for Android
+  website_url: http://robolectric.org/
+  version: 4.7.3
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2022/OavapKft_400x400.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Antonio Guerra
+  last_updated_on: 2022-07-20 01:31:48.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  version: '13.0'
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Anton Tananaev
+  last_updated_on: 2022-10-21 15:17:05.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: 4.13.2
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Anton Tananaev
+  last_updated_on: 2021-07-20 03:26:42.000000000 Z
+- name: org.jetbrains.kotlin:kotlin-stdlib-jdk7
+  description: Kotlin Standard Library JDK 7 extension
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Antonio Guerra
+  last_updated_on: 2022-07-20 01:31:48.000000000 Z
+- name: org.robolectric:robolectric
+  description: An alternative Android testing framework
+  version: 4.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/Blejzer/traccar-client-android/blob/master/app/build.gradle
+  detection_source: app/build.gradle
+  last_updated_by: Antonio Guerra
+  last_updated_on: 2022-07-20 01:31:48.000000000 Z
